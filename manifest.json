@@ -1,6 +1,6 @@
 {
-    "display_name": "聊天记录快速恢复",
-    "loading_order": 5,
+    "display_name": "聊天记录快速恢复X2",
+    "loading_order": 1,
     "requires": [],
     "optional": [],
     "js": "index.js",
